@@ -1,6 +1,1 @@
-pkg
 bin
-src
-!src/app
-!src/app/*
-!src/app/**.*
